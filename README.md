@@ -1,0 +1,1 @@
+A data-driven intelligence system designed to automate the lifecycle of crypto airdrop analysis. The platform leverages ETL pipelines to integrate on-chain metrics with off-chain data, providing automated risk scoring and potential ROI forecasting.
